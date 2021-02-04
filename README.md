@@ -1,2 +1,2 @@
 # python_card_game
-"Devour Al" card game 
+"Devour All" card game 
